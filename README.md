@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishnu-02&label=Profile%20views&color=0e75b6&style=flat" alt="jishnu-02" /> </p>
 
-- 🔭 I’m currently working on **Phenomtec**
+- 🔭 I’m currently working on **Myself!**
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
