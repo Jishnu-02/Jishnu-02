@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jishnu S Nair</h1>
 <h3 align="center">Aspiring Full Stack Developer | Currently Working as a Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **jishnusnair500@gmail.com**
 
