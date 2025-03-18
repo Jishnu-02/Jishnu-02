@@ -1,3 +1,12 @@
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://Amal-pk.io)
+<h1 align="center">Hi 👋, I'm Amal PK</h1>
+<h3 align="center">A passionate flutter developer</h3>
+<img align="center" alt=Coding" width="400" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Jishnu S Nair</h1>
 <h3 align="center">Aspiring Full Stack Developer | Currently Working as a Frontend Developer</h3>
 
