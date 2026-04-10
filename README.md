@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jishnu S Nair</h1>
+<h1 align="center">Hi 👋, I'm Jishnu Sasankan Nair</h1>
 <h3 align="center">Aspiring Full Stack Developer | Currently Working as a Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishnu-02&label=Profile%20views&color=0e75b6&style=flat" alt="jishnu-02" /> </p>
